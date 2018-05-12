@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34533'
     url: http://www.gutenberg.org/2009/agents/34533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30323#The-Book-of-Religions--13-Comprising-the-Views-Creeds-Sentiments-or-Opinions-of-All-the-Princ_
 gutenberg_issued: '2009-10-24'
 gutenberg_type: Text
 identifiers:
